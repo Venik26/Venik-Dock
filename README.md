@@ -24,8 +24,8 @@ A Pure Native Rainmeter Dock with Zero .ini Editing Required.
 
 ## What's New v1.0.3
 
-<img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/7ff157dc-97e0-46a5-bdd1-5707fd282ddb" />
 
+<img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/5ff1b51a-8143-4cc9-89f5-75ebb892c28e" />
 * **Further optimized the icon extraction algorithm, upgrading Windows video and music icons to high-resolution formats.**  
 
 * **Added a hover effect to display file names on mouseover.**  
@@ -37,13 +37,14 @@ A Pure Native Rainmeter Dock with Zero .ini Editing Required.
 ##  Preview & Features
 
 ### Middle Click: Toggle Mode
-<img width="1062" height="763" alt="Middle Click: Toggle Mode" src="https://github.com/user-attachments/assets/34666638-cc0f-479d-9591-e0d7957e0421" />
+<img width="1062" height="763" alt="Middle Click: Toggle Mode" src="https://github.com/user-attachments/assets/c2a2f2a6-5514-499e-a5a1-45e0119e6b3e" />
 
 ### Right Click: Set Icons
-<img width="1062" height="763" alt="Right Click: Set Icons" src="https://github.com/user-attachments/assets/385013ae-3dfe-4772-9805-31f6561e3d56" />
+<img width="1062" height="763" alt="Right Click: Set Icons" src="https://github.com/user-attachments/assets/53949dda-1ed9-4176-86af-306dd4099fc5" />
 
 ### Left Click: Execute Functions
-<img width="1062" height="763" alt="Left Click: Execute Functions" src="https://github.com/user-attachments/assets/83ffb6b5-eb5f-4bc8-8596-46d96d2f846b" />
+<img width="1062" height="763" alt="Left Click: Execute Functions" src="https://github.com/user-attachments/assets/5a589e7d-b60a-4edd-b85d-0d1593b8c410" />
+
 
 ---
 
