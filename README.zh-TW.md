@@ -20,7 +20,8 @@
 
 ## 更新日誌  v1.0.3
 
-<img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/5ff1b51a-8143-4cc9-89f5-75ebb892c28e" />
+<img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/69d83ca6-5297-485c-8d9b-d9292f9891d0" />  
+
 * **再次優化了抓圖的算法，win10的影片和音樂改為高解析度圖示**  
 
 * **新增了滑鼠懸停的文件名稱顯示功能**  
