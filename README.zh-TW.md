@@ -20,8 +20,7 @@
 
 ## 更新日誌  v1.0.3
 
-<img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/7ff157dc-97e0-46a5-bdd1-5707fd282ddb" />
-
+<img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/5ff1b51a-8143-4cc9-89f5-75ebb892c28e" />
 * **再次優化了抓圖的算法，win10的影片和音樂改為高解析度圖示**  
 
 * **新增了滑鼠懸停的文件名稱顯示功能**  
@@ -33,13 +32,13 @@
 ##  效果與功能預覽
 
 ### 中鍵設定模式
-<img width="1062" height="763" alt="中鍵設定模式" src="https://github.com/user-attachments/assets/34666638-cc0f-479d-9591-e0d7957e0421" />
+<img width="1062" height="763" alt="中鍵設定模式" src="https://github.com/user-attachments/assets/c2a2f2a6-5514-499e-a5a1-45e0119e6b3e" />
 
 ### 右鍵設定圖片與欄位
-<img width="1062" height="763" alt="右鍵設定圖片" src="https://github.com/user-attachments/assets/385013ae-3dfe-4772-9805-31f6561e3d56" />
+<img width="1062" height="763" alt="右鍵設定圖片" src="https://github.com/user-attachments/assets/53949dda-1ed9-4176-86af-306dd4099fc5" />
 
 ### 左鍵操作功能與刪除
-<img width="1062" height="763" alt="左鍵操作功能" src="https://github.com/user-attachments/assets/83ffb6b5-eb5f-4bc8-8596-46d96d2f846b" />
+<img width="1062" height="763" alt="左鍵操作功能" src="https://github.com/user-attachments/assets/5a589e7d-b60a-4edd-b85d-0d1593b8c410" />
 
 ---
 
