@@ -24,8 +24,8 @@ A Pure Native Rainmeter Dock with Zero .ini Editing Required.
 
 ## What's New v1.0.3
 
+<img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/69d83ca6-5297-485c-8d9b-d9292f9891d0" />  
 
-<img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/5ff1b51a-8143-4cc9-89f5-75ebb892c28e" />
 * **Further optimized the icon extraction algorithm, upgrading Windows video and music icons to high-resolution formats.**  
 
 * **Added a hover effect to display file names on mouseover.**  
