@@ -1,4 +1,4 @@
-# Venik26 Dock for Rainmeter
+# Venik Dock for Rainmeter
 
 **English** | [繁體中文](README.zh-TW.md)  
 
@@ -22,7 +22,7 @@ A Pure Native Rainmeter Dock with Zero .ini Editing Required.
   
 ---
 
-## What's / New v1.0.3
+## What's New v1.0.3
 
 <img width="1087" height="739" alt="Venik26 Rainmeter Dock User Interface Preview v1.0.3" src="https://github.com/user-attachments/assets/7ff157dc-97e0-46a5-bdd1-5707fd282ddb" />
 
